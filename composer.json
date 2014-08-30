@@ -1,0 +1,23 @@
+{
+    "name": "fxlacroix/component",
+    "type": "library",
+    "description": "component useful for me :-)",
+    "keywords": ["component"],
+    "authors": [
+        {
+            "name": "LACROIX Fran?ois-Xavier",
+            "email": "fxlacroix@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "gedmo/doctrine-extensions": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "FXL\\Component": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "FXL/Component"
+}
