@@ -18,6 +18,5 @@
             "FXL\\Component": ""
         }
     },
-    "minimum-stability": "dev",
     "target-dir": "FXL/Component"
 }
